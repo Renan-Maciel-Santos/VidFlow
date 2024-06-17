@@ -1,3 +1,5 @@
+Projeto criado com base nos conteúdos disponibilizados pela Escola ALURA para assimilar conhecimento em Node.JS
+
 ## 🛠️ Abrir e rodar o projeto
 
 Para rodar esse projeto, você precisa ter o [Node.js](https://nodejs.org/) instalado.
